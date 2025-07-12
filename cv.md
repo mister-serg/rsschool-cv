@@ -1,6 +1,6 @@
 # Resume
 
-<img src="image/pDSC_3820.jpg" alt="A photo of Sergey Zhuravlev" width="200" height="200">
+<img src="image/pDSC_3820.jpg" alt="A photo of Sergey Zhuravlev" width="200" height="258">
 
 ## Personal Information
 **Full Name:** Zhuravlev Sergey Vladimirovich  
