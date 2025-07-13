@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+p {
+    font-size: 1.1em;
+}
+li {
+    font-size: 1.1em;
+    margin: 10px;
+}
+h2 {
+    border-bottom: 2px solid #DCDCDC;
+    padding-bottom: 10px;
+}
+.main {
+    display: block;
+    width: 65%;
+    margin: auto;
+}
+.comments {
+    color: green;
+}
+.violet {
+    color: violet;
+}
+.red {
+    color: red;
+}
+.gray {
+    color: gray;
+}
+.code {
+    background-color: #f5f5f5;
+    padding: 50px;
+}
+.code p {
+    margin: 0;
+}
