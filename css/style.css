@@ -132,6 +132,9 @@ footer {
     border-top: 1px solid #ccc;
 }
 
+.date {
+    margin: auto;
+}
 footer a {
     display: block;
     width: 100px;
